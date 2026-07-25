@@ -96,8 +96,9 @@
 
   ## Featured projects
 
-  Add your best 2–3 projects here with screenshots, features,
-  security decisions, tests, and setup instructions.
+  https://github.com/ahmedMhamdan/resolveiq-ai-helpdesk
+
+  https://github.com/ahmedMhamdan/elancer
 
   ## Contact
 
