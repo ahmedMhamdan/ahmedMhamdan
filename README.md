@@ -1,8 +1,4 @@
-<p align="center">
-  <img width="351" height="633" alt="Screenshot 2026-08-03 193322" src="https://github.com/user-attachments/assets/3ea10166-a16a-4ba0-898f-04ac27d14d27" />
-  </p>
-
-  <h1 align="center">Ahmed Hamdan</h1>
+<h1 align="center">Ahmed Hamdan</h1>
 
   <p align="center">
     <strong>Junior PHP/Laravel Backend Developer</strong><br>
