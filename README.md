@@ -14,7 +14,7 @@
 ## About me
 
 I build secure, tested full-stack web applications: Laravel and PHP on the backend, React and TypeScript on the
-frontend. I am a fourth-year Cybersecurity Engineering student, so authentication, authorization, validation and web
+frontend. I am a fifth-year Cybersecurity Engineering student, so authentication, authorization, validation and web
 application security shape how I design.
 
 - Building **Elancer**, a bilingual freelance marketplace (Laravel, Inertia, React, TypeScript)
