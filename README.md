@@ -1,52 +1,47 @@
 <h1 align="center">Ahmed Hamdan</h1>
 
-  <p align="center">
-    <strong>Junior PHP/Laravel Backend Developer</strong><br>
-    Cybersecurity Engineering Student · Gaza, Palestine
-  </p>
+<p align="center">
+  <strong>Full-Stack Developer · Laravel · React · TypeScript</strong><br>
+  Cybersecurity Engineering Student · Gaza, Palestine
+</p>
 
-  <p align="center">
-    <a href="https://github.com/ahmedMhamdan">GitHub</a> ·
-    <a href="https://www.linkedin.com/in/ahmed-hamdan-355361427">LinkedIn</a> ·
-    <a href="https://resolveiq-ai-helpdesk.onrender.com">ResolveIQ Demo</a>
-  </p>
+<p align="center">
+  <a href="https://github.com/ahmedMhamdan">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/ahmed-m-hamdan/">LinkedIn</a> ·
+  <a href="https://resolveiq-ai-helpdesk.onrender.com">ResolveIQ Demo</a>
+</p>
 
-  ## About me
+## About me
 
-  I build secure and maintainable web applications with PHP and Laravel. I am a fourth-year Cybersecurity Engineering
-  student focused on backend development, REST APIs, authentication, authorization, testing, and web application
-  security.
+I build secure, tested full-stack web applications: Laravel and PHP on the backend, React and TypeScript on the
+frontend. I am a fourth-year Cybersecurity Engineering student, so authentication, authorization, validation and web
+application security shape how I design.
 
-  - Building **Elancer**, a Laravel freelance marketplace
-  - Built **ResolveIQ**, a role-based AI-assisted helpdesk
-  - Researching AI-assisted and hybrid detection of SQL injection and XSS
-  - Open to junior backend roles, internships, remote work, and relocation
+- Building **Elancer**, a bilingual freelance marketplace (Laravel, Inertia, React, TypeScript)
+- Built **ResolveIQ**, a role-based helpdesk with AI-assisted ticket replies
+- Researching AI-assisted and hybrid detection of SQL injection and XSS
+- Open to junior full-stack and backend roles, internships, remote work, and relocation
 
-  ## Featured projects
+## Featured projects
 
-  ### [ResolveIQ AI Helpdesk](https://github.com/ahmedMhamdan/resolveiq-ai-helpdesk)
+### [Elancer](https://github.com/ahmedMhamdan/elancer)
 
-  A Laravel helpdesk with role-based workflows, authentication, a REST API, rate limiting, AI ticket assistance, Arabic/
-  English support, and automated feature tests.
+A freelance marketplace with a Laravel backend and an Inertia + React + TypeScript frontend, built around clean
+architecture, validation, authorization, accessible interfaces, and automated tests.
 
-  ### [Elancer](https://github.com/ahmedMhamdan/elancer)
+### [ResolveIQ AI Helpdesk](https://github.com/ahmedMhamdan/resolveiq-ai-helpdesk)
 
-  An evolving Laravel freelance marketplace focused on clean architecture, validation, authorization, security,
-  accessible interfaces, and automated testing.
+A Laravel helpdesk with role-based workflows, authentication, a REST API, rate limiting, AI ticket assistance through
+LLM APIs (OpenRouter and OpenAI), Arabic/English support, and automated feature tests.
+[Live demo](https://resolveiq-ai-helpdesk.onrender.com).
 
-  ## Technical stack
+## Technical stack
 
-  `PHP` · `Laravel` · `MySQL` · `REST APIs` · `Blade` · `Tailwind CSS` · `Git` · `GitHub` · `Docker`
+`PHP` · `Laravel` · `React` · `TypeScript` · `Inertia.js` · `Tailwind CSS` · `MySQL` · `REST APIs` · `LLM APIs` · `Docker` · `Git`
 
-  ## Current focus
+## Current focus
 
-  - Laravel backend development
-  - Secure API design
-  - Authentication and authorization
-  - SQL injection and XSS detection
-  - Testing and maintainable application architecture
-
-  ## Connect
-
-  Reach me through [LinkedIn](https://www.linkedin.com/in/ahmed-hamdan-355361427) or explore my repositories here on
-  GitHub.
+- Full-stack feature work on Elancer
+- Secure API design, authentication and authorization
+- AI-assisted features and SQL injection / XSS detection research
+- Testing and maintainable application architecture
